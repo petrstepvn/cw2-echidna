@@ -1,0 +1,1 @@
+import{j as e,R as r,r as t}from"./vendor.d28a7908.js";const n=e.exports.jsx,o=e.exports.jsxs;function s(){return n("h1",{children:"Echidna puzzle"})}r.render(o(t.exports.StrictMode,{children:[n("h1",{children:"hey"}),n(s,{})]}),document.getElementById("root"));
